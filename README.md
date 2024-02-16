@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @Squzu
-- 👀 I’m interested in Cybersecurity stuffs and Computers 😉
+- 👀 I’m interested in Cybersecurity stuff and Computers 😉
 - 🌱 I’m currently preparing for OSCP
 - 📫 How to reach me Mail:squzu2019@gmail.com
 
@@ -20,9 +20,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<h1 align="center">Hi 👋, I'm Shridhar Kamath (Squzu)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squzu&label=Profile%20views&color=0e75b6&style=flat" alt="squzu" /> </p>
 
